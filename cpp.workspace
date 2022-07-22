@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cpp" Database="" Version="10.0.0">
+  <VirtualDirectory Name="PointersAndReference">
+    <Project Name="SimplePointers" Path="pointerAndReference/pointerAndReference.project" Active="No"/>
+    <Project Name="Reference" Path="Reference/Reference.project" Active="No"/>
+    <Project Name="ReturnPointer" Path="ReturnPointer/ReturnPointer.project" Active="No"/>
+    <Project Name="PassingPointers3" Path="PassingPointers3/PassingPointers3.project" Active="No"/>
+    <Project Name="PassingPointers2" Path="PassingPointers2/PassingPointers2.project" Active="No"/>
+    <Project Name="PassingPointers1" Path="PassingPointers1/PassingPointers1.project" Active="No"/>
+    <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project" Active="No"/>
+    <Project Name="Dereference" Path="Dereference/Dereference.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="OOP">
+    <Project Name="DeclareClassAndObject" Path="DeclareClassAndObject/DeclareClassAndObject.project" Active="No"/>
+    <Project Name="AccessingClassMember" Path="AccessingClassMember/AccessingClassMember.project" Active="No"/>
+    <Project Name="AccessingModifiers" Path="AccessingModifiers/AccessingModifiers.project" Active="No"/>
+    <Project Name="ImplementingMethod1" Path="ImplementingMethod1/ImplementingMethod1.project" Active="No"/>
+    <Project Name="ImplementingMethod2" Path="ImplementingMethod2/ImplementingMethod2.project" Active="No"/>
+    <Project Name="ConstructorsAndDestructors" Path="ConstructorsAndDestructors/ConstructorsAndDestructors.project" Active="No"/>
+    <Project Name="DefaultConstructor" Path="DefaultConstructor/DefaultConstructor.project" Active="No"/>
+    <Project Name="ConstuctorInitializationList" Path="ConstuctorInitializationList/ConstuctorInitializationList.project" Active="No"/>
+    <Project Name="DelegatingConstructors" Path="DelegatingConstructors/DelegatingConstructors.project" Active="No"/>
+    <Project Name="DefaultConstructorParametersAndDefaultValues" Path="DefaultConstructorParametersAndDefaultValues/DefaultConstructorParametersAndDefaultValues.project" Active="No"/>
+    <Project Name="DefaultConstructorParameters" Path="DefaultConstructorParameters/DefaultConstructorParameters.project" Active="No"/>
+    <Project Name="CopyConstructor" Path="CopyConstructor/CopyConstructor.project" Active="Yes"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="OperatorOverloading">
+    <Project Name="MyString-start" Path="MyString-start/MyString-start.project" Active="No"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="AccessingClassMember" ConfigName="Debug"/>
+      <Project Name="AccessingModifiers" ConfigName="Debug"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Debug"/>
+      <Project Name="ConstuctorInitializationList" ConfigName="Debug"/>
+      <Project Name="DeclareClassAndObject" ConfigName="Debug"/>
+      <Project Name="DefaultConstructor" ConfigName="Debug"/>
+      <Project Name="DelegatingConstructors" ConfigName="Debug"/>
+      <Project Name="Dereference" ConfigName="Debug"/>
+      <Project Name="DynamicMemory" ConfigName="Debug"/>
+      <Project Name="ImplementingMethod1" ConfigName="Debug"/>
+      <Project Name="ImplementingMethod2" ConfigName="Debug"/>
+      <Project Name="MyString-start" ConfigName="Debug"/>
+      <Project Name="PassingPointers1" ConfigName="Debug"/>
+      <Project Name="PassingPointers2" ConfigName="Debug"/>
+      <Project Name="PassingPointers3" ConfigName="Debug"/>
+      <Project Name="Reference" ConfigName="Debug"/>
+      <Project Name="ReturnPointer" ConfigName="Debug"/>
+      <Project Name="SimplePointers" ConfigName="Debug"/>
+      <Project Name="DefaultConstructorParameters" ConfigName="Debug"/>
+      <Project Name="CopyConstructor" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="SimplePointers" ConfigName="Release"/>
+      <Project Name="Dereference" ConfigName="Release"/>
+      <Project Name="DynamicMemory" ConfigName="Release"/>
+      <Project Name="PassingPointers1" ConfigName="Release"/>
+      <Project Name="PassingPointers2" ConfigName="Release"/>
+      <Project Name="PassingPointers3" ConfigName="Release"/>
+      <Project Name="ReturnPointer" ConfigName="Release"/>
+      <Project Name="Reference" ConfigName="Release"/>
+      <Project Name="DeclareClassAndObject" ConfigName="Release"/>
+      <Project Name="AccessingClassMember" ConfigName="Release"/>
+      <Project Name="AccessingModifiers" ConfigName="Release"/>
+      <Project Name="ImplementingMethod1" ConfigName="Release"/>
+      <Project Name="ImplementingMethod2" ConfigName="Release"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Release"/>
+      <Project Name="DefaultConstructor" ConfigName="Release"/>
+      <Project Name="MyString-start" ConfigName="Release"/>
+      <Project Name="ConstuctorInitializationList" ConfigName="Release"/>
+      <Project Name="DelegatingConstructors" ConfigName="Release"/>
+      <Project Name="DefaultConstructorParameters" ConfigName="Release"/>
+      <Project Name="CopyConstructor" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
